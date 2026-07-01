@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/akshay1121/DSA-in-Java/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/akshay1121/DSA-in-Java/tree/master/0521-longest-uncommon-subsequence-i) |
 <!---LeetCode Topics End-->
