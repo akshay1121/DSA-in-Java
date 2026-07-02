@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/0258-add-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -79,8 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akshay1121/DSA-in-Java/tree/master/0141-linked-list-cycle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
