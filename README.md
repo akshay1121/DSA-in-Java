@@ -86,9 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/akshay1121/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
