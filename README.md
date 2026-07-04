@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/0258-add-digits) |
 ## Linked List
