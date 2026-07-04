@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akshay1121/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akshay1121/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/akshay1121/DSA-in-Java/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/akshay1121/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -98,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
