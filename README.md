@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/akshay1121/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0414-third-maximum-number) |
+| [0704-binary-search](https://github.com/akshay1121/DSA-in-Java/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/akshay1121/DSA-in-Java/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1408-string-matching-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1408-string-matching-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/akshay1121/DSA-in-Java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Simulation
 |  |
