@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1528-shuffle-string) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/3110-score-of-a-string) |
+| [3210-find-the-encrypted-string](https://github.com/akshay1121/DSA-in-Java/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/akshay1121/DSA-in-Java/tree/master/3340-check-balanced-string) |
 ## Array
 |  |
