@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/akshay1121/DSA-in-Java/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/akshay1121/DSA-in-Java/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1528-shuffle-string) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/3110-score-of-a-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/akshay1121/DSA-in-Java/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1408-string-matching-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1528-shuffle-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshay1121/DSA-in-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay1121/DSA-in-Java/tree/master/2733-neither-minimum-nor-maximum) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1408-string-matching-in-an-array) |
 ## Greedy
 |  |
 | ------- |
