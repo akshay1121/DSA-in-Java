@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshay1121/DSA-in-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay1121/DSA-in-Java/tree/master/2733-neither-minimum-nor-maximum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/akshay1121/DSA-in-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/akshay1121/DSA-in-Java/tree/master/0383-ransom-note) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshay1121/DSA-in-Java/tree/master/1833-maximum-ice-cream-bars) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/akshay1121/DSA-in-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/akshay1121/DSA-in-Java/tree/master/0383-ransom-note) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/akshay1121/DSA-in-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
