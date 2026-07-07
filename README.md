@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1528-shuffle-string) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/2390-removing-stars-from-a-string) |
+| [3340-check-balanced-string](https://github.com/akshay1121/DSA-in-Java/tree/master/3340-check-balanced-string) |
 ## Array
 |  |
 | ------- |
