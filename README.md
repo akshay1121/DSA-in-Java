@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akshay1121/DSA-in-Java/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/akshay1121/DSA-in-Java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0088-merge-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshay1121/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/akshay1121/DSA-in-Java/tree/master/0704-binary-search) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akshay1121/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/akshay1121/DSA-in-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshay1121/DSA-in-Java/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
