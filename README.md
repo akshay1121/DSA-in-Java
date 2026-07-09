@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/akshay1121/DSA-in-Java/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/akshay1121/DSA-in-Java/tree/master/0693-binary-number-with-alternating-bits) |
 ## Prefix Sum
 |  |
 | ------- |
