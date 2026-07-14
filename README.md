@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshay1121/DSA-in-Java/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/akshay1121/DSA-in-Java/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/akshay1121/DSA-in-Java/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/akshay1121/DSA-in-Java/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0055-jump-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshay1121/DSA-in-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
 ## Counting Sort
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akshay1121/DSA-in-Java/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
