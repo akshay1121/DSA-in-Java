@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/akshay1121/DSA-in-Java/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/akshay1121/DSA-in-Java/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshay1121/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/akshay1121/DSA-in-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akshay1121/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akshay1121/DSA-in-Java/tree/master/0141-linked-list-cycle) |
