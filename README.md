@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akshay1121/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akshay1121/DSA-in-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/akshay1121/DSA-in-Java/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/akshay1121/DSA-in-Java/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/akshay1121/DSA-in-Java/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0796-rotate-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/akshay1121/DSA-in-Java/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/akshay1121/DSA-in-Java/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/2390-removing-stars-from-a-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/akshay1121/DSA-in-Java/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/akshay1121/DSA-in-Java/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
