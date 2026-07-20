@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/akshay1121/DSA-in-Java/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/akshay1121/DSA-in-Java/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1046-last-stone-weight](https://github.com/akshay1121/DSA-in-Java/tree/master/1046-last-stone-weight) |
 | [1408-string-matching-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshay1121/DSA-in-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshay1121/DSA-in-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/akshay1121/DSA-in-Java/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
