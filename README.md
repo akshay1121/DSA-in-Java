@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akshay1121/DSA-in-Java/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/akshay1121/DSA-in-Java/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/akshay1121/DSA-in-Java/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/akshay1121/DSA-in-Java/tree/master/0693-binary-number-with-alternating-bits) |
 ## Prefix Sum
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/akshay1121/DSA-in-Java/tree/master/1046-last-stone-weight) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/akshay1121/DSA-in-Java/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
