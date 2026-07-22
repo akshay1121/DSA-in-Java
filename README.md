@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/akshay1121/DSA-in-Java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akshay1121/DSA-in-Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/akshay1121/DSA-in-Java/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/akshay1121/DSA-in-Java/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/akshay1121/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akshay1121/DSA-in-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/akshay1121/DSA-in-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akshay1121/DSA-in-Java/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/akshay1121/DSA-in-Java/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/akshay1121/DSA-in-Java/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/akshay1121/DSA-in-Java/tree/master/0367-valid-perfect-square) |
