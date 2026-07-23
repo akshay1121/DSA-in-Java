@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/akshay1121/DSA-in-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/akshay1121/DSA-in-Java/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/akshay1121/DSA-in-Java/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/akshay1121/DSA-in-Java/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/akshay1121/DSA-in-Java/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0796-rotate-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/akshay1121/DSA-in-Java/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1408-string-matching-in-an-array) |
 ## Greedy
