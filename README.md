@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshay1121/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/akshay1121/DSA-in-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akshay1121/DSA-in-Java/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/akshay1121/DSA-in-Java/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/akshay1121/DSA-in-Java/tree/master/0704-binary-search) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshay1121/DSA-in-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/akshay1121/DSA-in-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/akshay1121/DSA-in-Java/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/akshay1121/DSA-in-Java/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0509-fibonacci-number) |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/akshay1121/DSA-in-Java/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/akshay1121/DSA-in-Java/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/akshay1121/DSA-in-Java/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/akshay1121/DSA-in-Java/tree/master/0693-binary-number-with-alternating-bits) |
 ## Prefix Sum
