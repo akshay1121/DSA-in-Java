@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/akshay1121/DSA-in-Java/tree/master/0704-binary-search) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshay1121/DSA-in-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay1121/DSA-in-Java/tree/master/2733-neither-minimum-nor-maximum) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/akshay1121/DSA-in-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akshay1121/DSA-in-Java/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshay1121/DSA-in-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
