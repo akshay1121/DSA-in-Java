@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshay1121/DSA-in-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay1121/DSA-in-Java/tree/master/2733-neither-minimum-nor-maximum) |
+| [3536-maximum-product-of-two-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/akshay1121/DSA-in-Java/tree/master/2119-a-number-after-a-double-reversal) |
+| [3536-maximum-product-of-two-digits](https://github.com/akshay1121/DSA-in-Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshay1121/DSA-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akshay1121/DSA-in-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
