@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/akshay1121/DSA-in-Java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/akshay1121/DSA-in-Java/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/akshay1121/DSA-in-Java/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/akshay1121/DSA-in-Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akshay1121/DSA-in-Java/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/akshay1121/DSA-in-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/akshay1121/DSA-in-Java/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/akshay1121/DSA-in-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0171-excel-sheet-column-number) |
