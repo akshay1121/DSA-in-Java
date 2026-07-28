@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/akshay1121/DSA-in-Java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/akshay1121/DSA-in-Java/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/akshay1121/DSA-in-Java/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/akshay1121/DSA-in-Java/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/akshay1121/DSA-in-Java/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/akshay1121/DSA-in-Java/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/akshay1121/DSA-in-Java/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/akshay1121/DSA-in-Java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
