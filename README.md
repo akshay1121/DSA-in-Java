@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshay1121/DSA-in-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/akshay1121/DSA-in-Java/tree/master/0226-invert-binary-tree) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/akshay1121/DSA-in-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshay1121/DSA-in-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/akshay1121/DSA-in-Java/tree/master/0226-invert-binary-tree) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/akshay1121/DSA-in-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
