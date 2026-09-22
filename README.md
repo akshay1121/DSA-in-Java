@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/akshay1121/DSA-in-Java/tree/master/0141-linked-list-cycle) |
@@ -297,11 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [1046-last-stone-weight](https://github.com/akshay1121/DSA-in-Java/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/akshay1121/DSA-in-Java/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
@@ -361,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshay1121/DSA-in-Java/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
