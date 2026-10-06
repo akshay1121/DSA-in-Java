@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/akshay1121/DSA-in-Java/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshay1121/DSA-in-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshay1121/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/akshay1121/DSA-in-Java/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
