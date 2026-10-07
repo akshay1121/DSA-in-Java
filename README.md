@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akshay1121/DSA-in-Java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/akshay1121/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/akshay1121/DSA-in-Java/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshay1121/DSA-in-Java/tree/master/1833-maximum-ice-cream-bars) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akshay1121/DSA-in-Java/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/akshay1121/DSA-in-Java/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
