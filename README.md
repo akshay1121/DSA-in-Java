@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/akshay1121/DSA-in-Java/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/akshay1121/DSA-in-Java/tree/master/0844-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/akshay1121/DSA-in-Java/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/akshay1121/DSA-in-Java/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/akshay1121/DSA-in-Java/tree/master/0844-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/akshay1121/DSA-in-Java/tree/master/1006-clumsy-factorial) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/akshay1121/DSA-in-Java/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1006-clumsy-factorial](https://github.com/akshay1121/DSA-in-Java/tree/master/1006-clumsy-factorial) |
 | [1512-number-of-good-pairs](https://github.com/akshay1121/DSA-in-Java/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/akshay1121/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
