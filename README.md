@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/akshay1121/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/akshay1121/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0525-contiguous-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/akshay1121/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/akshay1121/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/akshay1121/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/akshay1121/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/akshay1121/DSA-in-Java/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akshay1121/DSA-in-Java/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/akshay1121/DSA-in-Java/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/akshay1121/DSA-in-Java/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/akshay1121/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
