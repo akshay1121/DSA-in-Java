@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay1121/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/akshay1121/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akshay1121/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshay1121/DSA-in-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay1121/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0234-palindrome-linked-list) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/akshay1121/DSA-in-Java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/akshay1121/DSA-in-Java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay1121/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshay1121/DSA-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
