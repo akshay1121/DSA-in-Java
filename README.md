@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/akshay1121/DSA-in-Java/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/akshay1121/DSA-in-Java/tree/master/0860-lemonade-change) |
+| [0977-squares-of-a-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akshay1121/DSA-in-Java/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/akshay1121/DSA-in-Java/tree/master/1046-last-stone-weight) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshay1121/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/akshay1121/DSA-in-Java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/akshay1121/DSA-in-Java/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshay1121/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/akshay1121/DSA-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [0977-squares-of-a-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akshay1121/DSA-in-Java/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
