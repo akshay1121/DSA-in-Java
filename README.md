@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akshay1121/DSA-in-Java/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/akshay1121/DSA-in-Java/tree/master/1046-last-stone-weight) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1408-string-matching-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1470-shuffle-the-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/akshay1121/DSA-in-Java/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1029-two-city-scheduling) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshay1121/DSA-in-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay1121/DSA-in-Java/tree/master/2733-neither-minimum-nor-maximum) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/akshay1121/DSA-in-Java/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/akshay1121/DSA-in-Java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Simulation
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/akshay1121/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/akshay1121/DSA-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Design
 |  |
 | ------- |
