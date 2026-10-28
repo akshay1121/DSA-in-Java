@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshay1121/DSA-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshay1121/DSA-in-Java/tree/master/0455-assign-cookies) |
+| [0518-coin-change-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/akshay1121/DSA-in-Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshay1121/DSA-in-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshay1121/DSA-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/akshay1121/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/akshay1121/DSA-in-Java/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/akshay1121/DSA-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Design
@@ -447,4 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/akshay1121/DSA-in-Java/tree/master/1029-two-city-scheduling) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/akshay1121/DSA-in-Java/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
