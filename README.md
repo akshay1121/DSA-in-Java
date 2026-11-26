@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/akshay1121/DSA-in-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshay1121/DSA-in-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshay1121/DSA-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2596-check-knight-tour-configuration](https://github.com/akshay1121/DSA-in-Java/tree/master/2596-check-knight-tour-configuration) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshay1121/DSA-in-Java/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshay1121/DSA-in-Java/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/akshay1121/DSA-in-Java/tree/master/0844-backspace-string-compare) |
 | [1006-clumsy-factorial](https://github.com/akshay1121/DSA-in-Java/tree/master/1006-clumsy-factorial) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay1121/DSA-in-Java/tree/master/2390-removing-stars-from-a-string) |
+| [2596-check-knight-tour-configuration](https://github.com/akshay1121/DSA-in-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akshay1121/DSA-in-Java/tree/master/0074-search-a-2d-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/akshay1121/DSA-in-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshay1121/DSA-in-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akshay1121/DSA-in-Java/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/akshay1121/DSA-in-Java/tree/master/0226-invert-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/akshay1121/DSA-in-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/akshay1121/DSA-in-Java/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/akshay1121/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/akshay1121/DSA-in-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [2596-check-knight-tour-configuration](https://github.com/akshay1121/DSA-in-Java/tree/master/2596-check-knight-tour-configuration) |
 ## Quicksort
 |  |
 | ------- |
